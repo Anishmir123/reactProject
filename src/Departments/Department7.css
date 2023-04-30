@@ -1,0 +1,67 @@
+
+
+@media screen and (max-width:850px){
+    .destination{
+        margin:4rem 6rem;
+    }
+    
+}
+
+.doc-7{
+    width:100%;
+    margin-left: 30px;
+    display:flex;
+    flex-direction: row;
+    align-items: stretch;
+
+}
+
+.doctor-site p{
+    line-height: 17px;
+}
+  .doctor-site h5{
+    margin-top: 6px;
+}
+
+.button13 {
+    background-color: #f04111;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 15px 2px;
+    cursor: pointer;
+  }
+
+  .button14 {
+    background-color: #f04111;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: auto 2px;
+    cursor: pointer;
+  }
+
+
+  .button15 {
+    background-color: #f04111;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: auto 2px;
+    cursor: pointer;
+  }
+
+  
+  

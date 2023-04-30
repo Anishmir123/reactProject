@@ -1,0 +1,122 @@
+
+.dep-text{
+    width:45%;
+    text-align: start;
+    font-size:1.1rem;
+    margin-left: 80px;
+    margin-top:15px;
+
+}
+
+.doc-1{
+    width:100%;
+    margin-left: 30px;
+    display:flex;
+    flex-direction: row;
+    align-items: stretch;
+
+}
+.doctor-site p{
+  line-height: 17px;
+}
+.doctor-site h5{
+  margin-top: 6px;
+}
+
+.doctor-site{
+    margin-left: 60px;
+}
+
+.button1 {
+    background-color: #f04111;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .button2 {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 2px;
+    cursor: pointer;
+  }
+
+  .button3 {
+    background-color: #f04111;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .button4 {
+    background-color: #f04111;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 30px 2px;
+    cursor: pointer;
+  }
+  .button5 {
+    background-color: #f04111;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 30px 2px;
+    cursor: pointer;
+  }
+
+
+
+ 
+
+
+
+
+
+
+@media screen and (max-width:850px){
+    .destination{
+        margin:4rem 6rem;
+    }
+    
+    .image{
+        width:100%;
+        margin:1.8rem 0;
+
+    }
+
+
+}
+
+
+
+
+
+
+

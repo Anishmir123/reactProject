@@ -1,0 +1,91 @@
+body{
+  margin:0;
+  padding:0;
+  font-family: 'Tajawal', sans-serif;
+  background-color: #fff !important;
+}
+html{
+  scroll-behavior: smooth;
+}
+
+:root{
+  --main-color:#444;
+  --blue-color:rgba(231, 98, 10, 0.911);
+
+}
+
+section , footer , header {
+  width:100%;
+  height:auto;
+  overflow: hidden;
+  max-width: 100%;
+  padding:25px 0px;
+  margin-top:50px;
+
+}
+
+
+
+a{
+  text-decoration:none !important ;
+ 
+}
+
+span{
+  display:block;
+}
+
+ul{
+  margin:0;
+  padding:0;
+}
+
+li{
+  list-style-type: none;
+
+}
+
+button{
+  text-align: center;
+  box-sizing: border-box;
+  height:40px;
+  border-radius: 4px;
+}
+
+.p{
+  line-height: 28px;
+}
+
+input{
+  box-sizing: border-box;
+  border:1px solid #444;
+  text-align: left;
+  padding:5px 15px;
+  color:rgba(24, 143, 207, 0.911);
+  font-size: 16px;
+  font-family: 'Tajawal';
+}
+
+
+/* start css to the footer */
+
+footer p{
+  font-size: 17px;
+}
+
+footer .footer-contact{
+  display: flex;
+}
+
+footer .footer-contact h6{
+  color:orangered;
+}
+
+footer h2{
+  color:var(--blue-color);
+}
+
+ 
+
+
+

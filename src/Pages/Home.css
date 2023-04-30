@@ -1,0 +1,68 @@
+header{
+    margin-bottom: 3px;
+    background-color: #0176d5;
+}
+
+
+
+header  h5{
+    color:#fff;
+    font-size:20px;
+    margin: 10px 0px 10px 0px;
+    
+}
+
+header h1{
+color:#fff;
+font-size:50px;
+margin:20px 0px;
+font-weight: bold;
+letter-spacing: 1;
+
+}
+
+header button{
+    background-color: orangered !important;
+    width:200px;
+    height: 50px;
+    border:1px solid none;
+    border-radius: 4px !important;
+    margin-top: 40px;
+    transition: .2s ease;
+
+}
+
+header button a{
+    color:#fff;
+    font-size: 17px;
+    transition: .2s ease;
+}
+
+header button:hover{
+    opacity: .6px;
+}
+
+header button:hover a{
+
+}
+header img{
+    max-width: 100%;
+    width: 300px;
+    height:auto;
+    animation: mover 2s infinite alternate;
+    transition: .3s ease all;
+}
+
+@keyframes mover {
+    0%{
+        transform: translateY(0px);
+    }
+    100%{
+        transform: translateY(-10px);
+    }
+    
+}
+
+
+
+ 

@@ -1,0 +1,67 @@
+a {
+    color: black;
+    text-decoration: underline;
+    
+}
+button{
+    text-align: center;
+    box-sizing:border-box;
+    height:40px;
+    border-radius: 4px;
+}
+
+.h2, h2 {
+    color: blue;
+}
+ul{
+    margin:20px;
+    text-align:start;
+}
+
+ul li {
+   margin-top: 14px;
+
+}
+
+ ul li a {
+    color:#333;
+    font-size: 16px;
+    letter-spacing: 1px;
+ }
+
+form{
+    margin:15px 0px;
+}
+
+form input{
+    border:1px solid #ccc;
+    margin:10px 0px;
+    width:100%;
+}
+
+form button{
+    width:100%;
+    background-color: var(--blue-color);
+    border:1px solid orangered;
+}
+
+ul.social{
+    display:inline-block;
+    margin-right: 20px;
+}
+
+.footer-bottom{
+    text-align: center;
+    margin:25px 0px;
+    padding:10px 0px;
+    border-top:1px solid #ccc;
+
+}
+
+.footer-bottom span {
+    display:block;
+    margin-top:10px;
+}
+footer h2 {
+    color: blue;
+}

@@ -1,0 +1,78 @@
+
+
+
+
+
+.dep-text{
+    width:45%;
+    text-align: start;
+    font-size:1.1rem;
+    margin-left: 70px;
+
+}
+
+.dep-text h2{
+    padding-bottom: 1rem;
+    color:black;
+    font-weight: bold;
+   
+}
+
+
+
+
+@media screen and (max-width:850px){
+    .destination{
+        margin:4rem 6rem;
+    }
+    
+    
+}
+
+
+.doc-3{
+    width:100%;
+    margin-left: 30px;
+    display:flex;
+    flex-direction: row;
+    align-items: stretch;
+
+}
+
+doctor-site{
+    margin-left: 60px;
+}
+
+.doctor-site p{
+    line-height: 17px;
+  }
+  .doctor-site h5{
+    margin-top: 6px;
+  }
+
+.button8 {
+    background-color: #f04111;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 30px 2px;
+    cursor: pointer;
+  }
+
+  .button9 {
+    background-color: #f04111;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 8px 2px;
+    cursor: pointer;
+  }
+
